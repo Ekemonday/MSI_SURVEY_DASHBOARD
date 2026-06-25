@@ -5,7 +5,6 @@ This dashboard tracks survey enumeration progress across 5 Nigerian states, prov
 
 Tool: PowerBi
 
-
 🌍 State-by-State Insights
 1. Katsina — 467 (Leading State)
 
@@ -61,7 +60,7 @@ Adamawa and Taraba together account for only ~30% of total surveys
 Insight: There is a two-tier performance gap — the top 3 states vs. the bottom 2 states. Taraba in particular, at just 13%, needs urgent operational support.
 
 ✅ Summary of Key Takeaways
-#Insight1Gusau (Zamfara) and Birnin Kebbi (Kebbi) are the top-performing LGAs nationally2Taraba is critically behind — all its LGAs are below 50 respondents3No enumeration targets are set, making performance measurement impossible4Adamawa needs a boost — its spread is even but collectively insufficient5Total of 1,947 surveys completed — overall progress depends on undefined targets
+#Insight1Gusau (Zamfara) and Birnin Kebbi (Kebbi) are the top-performing LGAs nationally2Taraba is critically behind — all its LGAs are below 50 respondents3No enumeration targets are set, making performance measurement impossible4Adamawa needs a boost  its spread is even but collectively insufficient5Total of 1,947 surveys completed — overall progress depends on undefined targets
 
 📌 Recommendations
 
