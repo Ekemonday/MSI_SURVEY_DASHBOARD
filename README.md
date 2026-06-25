@@ -72,6 +72,7 @@ Deploy additional field officers to Taraba to close the performance gap
 Investigate what's working in Katsina and Gusau and replicate strategies in underperforming areas
 Consider mid-survey check-ins to course-correct before the enumeration window closes
 
-<img width="936" height="537" alt="image" src="https://github.com/user-attachments/assets/5ffb0b4e-0f3c-4daa-9d6b-2b2cb4809103" />
+<img width="942" height="539" alt="image" src="https://github.com/user-attachments/assets/c061eb04-14ba-4ab5-8208-27dc07ac5525" />
+
 LIVE DASHBOARD
 https://app.powerbi.com/view?r=eyJrIjoiNmFkMjRhYTMtM2VmNy00MWJiLWJiYmEtNGE5NjZmNjIwZjZkIiwidCI6ImVmNDllNWI3LTE2MTktNDM4ZC1hZTZkLTEwY2YwYzA0YjdhNiJ9
