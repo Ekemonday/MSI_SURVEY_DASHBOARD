@@ -5,8 +5,6 @@ This dashboard tracks survey enumeration progress across 5 Nigerian states, prov
 
 Tool: PowerBi
 
-🔢 Key Metrics by State
-StateSurveys CompletedShareKatsina46723.99%Zamfara44722.96%Kebbi44422.80%Adamawa33617.26%Taraba25312.99%Total1,947100%
 
 🌍 State-by-State Insights
 1. Katsina — 467 (Leading State)
